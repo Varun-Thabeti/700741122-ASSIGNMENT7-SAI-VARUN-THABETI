@@ -1,5 +1,5 @@
 # 700741122-ASSIGNMENT7-SAI-VARUN-THABETI
-![image](https://github.com/Varun-Thabeti/700741122-ASSIGNMENT7-SAI-VARUN-THABETI/assets/70372130/461120e3-cd54-4877-afd0-135fc72651c7)
+Link for the recording: https://drive.google.com/file/d/18kIYGJuSqHEij35DlTnXYEnYH9qj9VDn/view?usp=drive_link
 Use Case Description:
 LeNet5, AlexNet, Vgg16, Vgg19
 1. Training the model
